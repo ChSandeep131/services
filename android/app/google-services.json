@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710609948614",
+    "project_id": "expensechatapp",
+    "storage_bucket": "expensechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710609948614:android:e49206a05c56a3fffaecc7",
+        "android_client_info": {
+          "package_name": "com.example.expensechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710609948614-6f6bk54h46t0748gqnqegqek4l81r0cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensechatapp",
+            "certificate_hash": "52f0271b42f9a629b6c98c5a15b4ebf79adcfc02"
+          }
+        },
+        {
+          "client_id": "710609948614-v673qf4t0n05aog4nqubq41u7ashiubh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY46Hxy_R_RjmfdqiAVt8WL7qUZxmQ7mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710609948614-v673qf4t0n05aog4nqubq41u7ashiubh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710609948614-i5ai4hqhqfopko3kd5rqsiecml131jk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expensechatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
